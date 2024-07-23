@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1{
+  font-family:"Bigelow Rules" ;
+  font-size: 72px;
+  color: #0ccac4;
+  font-weight: 900;
+}
